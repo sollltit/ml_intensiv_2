@@ -5,4 +5,4 @@
 
 Лесницкая: https://colab.research.google.com/drive/13cBpWP_I6y6Q-7tgANgykR9HJYy_q7MN?usp=sharing
 
-Кривобокова: https://colab.research.google.com/drive/12sMOWbHkHmpZfvbXdJSx5dMKO7FLSaDg?usp=sharing
+Кривобокова: https://colab.research.google.com/drive/1SuzCtAAef49t3-SB0XxyZAzTDlrkKMfd?usp=sharing
