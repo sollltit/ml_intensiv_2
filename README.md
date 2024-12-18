@@ -19,4 +19,4 @@
 
 [Submisshion файл]()
 
-[Презентация]()
+[Презентация](https://github.com/sollltit/ml_intensiv_2/blob/main/samolet_presentation_template.pdf)
