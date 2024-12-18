@@ -17,6 +17,6 @@
 
 [Конечная работа html]()
 
-[Submisshion файл]()
+[Submisshion файл](https://github.com/sollltit/ml_intensiv_2/blob/main/submission.csv)
 
 [Презентация](https://github.com/sollltit/ml_intensiv_2/blob/main/samolet_presentation_template.pdf)
